@@ -73,7 +73,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pzo-gQ-bKn" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="484" y="72.413793103448285"/>
+            <point key="canvasLocation" x="250" y="72"/>
         </scene>
         <!--Todoey-->
         <scene sceneID="AIC-8T-6wf">
